@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-    int a,b;
-    int c=a+b;
+    int a,b,d;
+    int c=a+b+d;
 }
